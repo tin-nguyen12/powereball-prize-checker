@@ -1,0 +1,1 @@
+@py.exe "C:\Users\ngutt094\Google Drive\Miscellaneous\Programming\Python\Powerball Check\powereball-prize-checker\main.py" %*

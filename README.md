@@ -2,7 +2,7 @@
 
 What does this do? Well basically, I think the lottery is fun even though it's scam which is why I will only buy when it's over a certain amount. Rather than checking it everyday I wrote this script so that it will automatically check for me every day at a certain time. It will notify me by email once the jackpot has reached a certain amonut (personally it's 40 for me).
 
-##How To Use
+## How To Use
 
 1. Download the correct version of ChromeDriver from https://chromedriver.chromium.org/downloads
 2. In main.py, find where the driver is instantiated (line 15) and remove the current directory and add in the directory where you have saved ChromeDriver
